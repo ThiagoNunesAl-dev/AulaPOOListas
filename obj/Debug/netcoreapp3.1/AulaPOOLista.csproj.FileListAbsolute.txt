@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.exe
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.deps.json
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.dll
+D:\Thiago\Projetos\C#\AulaPOOLista\bin\Debug\netcoreapp3.1\AulaPOOLista.pdb
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.dll
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.pdb
+D:\Thiago\Projetos\C#\AulaPOOLista\obj\Debug\netcoreapp3.1\AulaPOOLista.genruntimeconfig.cache
